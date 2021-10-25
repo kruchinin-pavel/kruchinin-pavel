@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kruchinin-pavel
 - 👀 I’m interested in algorithmic trading (robots): stocks, bonds, cryptocurrencies.
-- 🌱 I’m currently strudying Machine Learing
+- 🌱 I’m currently studying Machine Learing
 - 💞️ I’m looking to collaborate on profitable trading ideas to implement
 - 📫 How to reach me: pavel@kruchinin.info
 
